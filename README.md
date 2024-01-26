@@ -1,6 +1,6 @@
 # WRITE UP
 
-Saya adalah pelajar dan ini adalah web untuk write up yang saya ikuti
+Saya adalah pelajar dan ini adalah web untuk Write Up Capture The Flag (CTF) yang saya ikuti
 
 english verison :
 This contains a Writeup of the Capture The Flag (CTF) that I participated in
