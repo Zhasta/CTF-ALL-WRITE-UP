@@ -10,4 +10,4 @@ This contains a Writeup of the Capture The Flag (CTF) that I participated in
 
 **Architect System Team :**
 
-[Cryptography](Architect-System-Team-(writeup)/Cryptography)
+[Cryptography](Architect-System-Team-(writeup)/Cryptograph)
