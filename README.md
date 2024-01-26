@@ -10,7 +10,9 @@ This contains a Writeup of the Capture The Flag (CTF) that I participated in
 
 #### Architect System Team ####
 <a href="https://github.com/Zhasta/CTF-ALL-WRITE-UP/tree/main/Architect%20System%20Team%20(writeup)/Cryptography"> Cryptography</a>
-<a href="https://github.com/Zhasta/CTF-ALL-WRITE-UP/tree/main/Architect%20System%20Team%20(writeup)/Forensic"> Forensic/a>
+
+<a href="https://github.com/Zhasta/CTF-ALL-WRITE-UP/tree/main/Architect%20System%20Team%20(writeup)/Forensic"> Forensic</a>
+
 <a href="https://github.com/Zhasta/CTF-ALL-WRITE-UP/tree/main/Architect%20System%20Team%20(writeup)/Reverse%20Engineering"> Reverse Engineering</a>
 
 
